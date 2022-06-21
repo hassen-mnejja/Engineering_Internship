@@ -21,3 +21,6 @@
 
 ### The CUHK Avenue dataset
 ![alt text](Images/CUHK1.png?raw=true)![alt text](Images/CUHK2.png?raw=true)![alt text](Images/CUHK3.png?raw=true)
+
+## Examples of results
+![alt text](Images/result1.jpg?raw=true)![alt text](Images/result2.jpg?raw=true)![alt text](Images/result3.jpg?raw=true)
