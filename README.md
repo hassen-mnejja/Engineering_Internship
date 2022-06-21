@@ -4,13 +4,9 @@
 ### Host : Concordia University
 ### Supervisors : Prof. Nizar Bouguila and Ms. Fatma Najjar 
 
-Below is the list of assignments and ungraded labs course-wise.
+## Description
 
-
-### Want to contribute?
-
-If you find a bug or typo please raise an issue :)
-
+In this project, we have implemented a model in which we integrate ConvNet and ConvLSTM with Auto-Encoder (Spatiotemporal Auto-Encoder) to learn the regularity of appearance and motion for the ordinary moments so to address challenges and limitations of anomaly detection and localization for real-time CCTV.
 -----
 
 ## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
