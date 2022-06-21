@@ -6,7 +6,7 @@
 
 ## Description
 
-In this project, we have implemented a model in which we integrate ConvNet and ConvLSTM with Auto-Encoder (Spatiotemporal Auto-Encoder) to learn the regularity of appearance and motion for the ordinary moments so to address challenges and limitations of anomaly detection and localization for real-time CCTV.
+- In this project, we have implemented a model in which we integrate ConvNet and ConvLSTM with Auto-Encoder (Spatiotemporal Auto-Encoder) to learn the regularity of appearance and motion for the ordinary moments so to address challenges and limitations of anomaly detection and localization for real-time CCTV.
 -----
 
 ## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
