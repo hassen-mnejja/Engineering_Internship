@@ -1,8 +1,8 @@
 # Engineering Internship
 
-## Subject : Anomaly Detection in Videos
-## Host : Concordia University
-## Supervisors : Prof. Nizar Bouguila and Ms. Fatma Najjar 
+### Subject : Anomaly Detection in Videos
+### Host : Concordia University
+### Supervisors : Prof. Nizar Bouguila and Ms. Fatma Najjar 
 
 Below is the list of assignments and ungraded labs course-wise.
 
