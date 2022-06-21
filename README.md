@@ -1,6 +1,8 @@
-# DeepLearning.AI TensorFlow Developer
+# Engineering Internship
 
-Welcome to the public repo for this course.
+## Subject : Anomaly Detection in Videos
+## Host : Concordia University
+## Supervisors : Prof. Nizar Bouguila and Ms. Fatma Najjar 
 
 Below is the list of assignments and ungraded labs course-wise.
 
