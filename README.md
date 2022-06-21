@@ -14,10 +14,10 @@
 
 ## Datasets
 ### The UCSD pedestrian Dataset
-![alt text](Images/UCSD1.png?raw=true)![alt text](Images/UCSD2.png?raw=true)![alt text](Images/UCSD3.png?raw=true)
+![alt text](Images/UCSD1.jpg?raw=true)![alt text](Images/UCSD2.jpg?raw=true)![alt text](Images/UCSD3.jpg?raw=true)
 
 ### The ShanghaiTech dataset
-![alt text](Images/ShanghaiTech1.png?raw=true)![alt text](Images/ShanghaiTech2.png?raw=true)![alt text](Images/ShanghaiTech.png?raw=true)
+![alt text](Images/ShanghaiTech1.png?raw=true)![alt text](Images/ShanghaiTech2.png?raw=true)![alt text](Images/ShanghaiTech3.png?raw=true)
 
 ### The CUHK Avenue dataset
 ![alt text](Images/CUHK1.png?raw=true)![alt text](Images/CUHK2.png?raw=true)![alt text](Images/CUHK3.png?raw=true)
